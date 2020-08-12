@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://zzzzzpaul.github.io/sitemap.xml
